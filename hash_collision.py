@@ -2,7 +2,6 @@
 Програма для автоматичного пошуку колізій хеш-функції
 """
 
-import os
 import random
 from hash_function import CustomHash
 
